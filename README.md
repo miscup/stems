@@ -1,2 +1,0 @@
-# stems
-Public Assets
